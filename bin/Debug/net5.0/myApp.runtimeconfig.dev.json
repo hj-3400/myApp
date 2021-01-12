@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\eclipse\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\eclipse\\.nuget\\packages"
+    ]
+  }
+}
